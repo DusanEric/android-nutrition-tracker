@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Snack</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="spinner_items2">
+        <item>Top</item>
+        <item>Lowest</item>
+    </string-array>
+
+    <string-array name="spinner_items3">
+        <item>Name</item>
+        <item>Category</item>
+        <item>Category time</item>
+    </string-array>
+</resources>
